@@ -1,4 +1,4 @@
-const URL="https://java-api-spring-bot.herokuapp.com/validacpf?cpf="
+const URL="https://java-api-spring-bot.herokuapp.com/validacpf?cpf=17616186874"
 function validar(){
 
 	var txtCPF = document.getElementById("txtCpf").value;
